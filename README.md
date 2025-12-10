@@ -1,6 +1,6 @@
 # 🌟 Rishav Singh | DevOps Engineer | 3+ Years Experience
 
-<marquee behavior="scroll" direction="left" scrollamount="5">🙏 Thanks for visiting my profile! 🙏</marquee>
+![Thanks](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 Hi! I'm **Rishav Singh**, a **DevOps Engineer** with over **3 years of hands-on experience**  
 in automating deployments, building CI/CD pipelines, containerization, cloud infrastructure,  

@@ -1,94 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Rishav Singh | DevOps Engineer</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6;">
+# 🌟 Rishav Singh | DevOps Engineer | 3+ Years Experience
 
-    <h1>🌟 Rishav Singh | DevOps Engineer | 3+ Years Experience</h1>
+Hi! I'm **Rishav Singh**, a **DevOps Engineer** with over **3 years of hands-on experience**  
+in automating deployments, building CI/CD pipelines, containerization, cloud infrastructure,  
+and improving development efficiency.
 
-    <p>
-        Hi! I'm <strong>Rishav Singh</strong>, a <strong>DevOps Engineer</strong> with over <strong>3 years of hands-on experience</strong> 
-        in automating deployments, building CI/CD pipelines, containerization, cloud infrastructure, 
-        and improving development efficiency.
-    </p>
+---
 
-    <hr>
+## 🚀 Skills & Technologies
 
-    <h2>🚀 Skills & Technologies</h2>
+### 🔧 DevOps & Automation
+- CI/CD (GitHub Actions, Jenkins)
+- Infrastructure as Code (Terraform, Ansible)
+- Shell Scripting (Bash)
 
-    <h3>🔧 DevOps & Automation</h3>
-    <ul>
-        <li>CI/CD (GitHub Actions, Jenkins)</li>
-        <li>Infrastructure as Code (Terraform, Ansible)</li>
-        <li>Shell Scripting (Bash)</li>
-    </ul>
+### 🐳 Containers & Virtualization
+- Docker (Images, Containers, Volumes, Networks)
+- Docker Compose
+- Kubernetes (Basics to Intermediate)
 
-    <h3>🐳 Containers & Virtualization</h3>
-    <ul>
-        <li>Docker (Images, Containers, Volumes, Networks)</li>
-        <li>Docker Compose</li>
-        <li>Kubernetes (Basics to Intermediate)</li>
-    </ul>
+### 🛠 Version Control & Collaboration
+- Git (Branching, Merging, Rebasing)
+- GitHub (Forks, Pull Requests, Workflows)
 
-    <h3>🛠 Version Control & Collaboration</h3>
-    <ul>
-        <li>Git (Branching, Merging, Rebasing)</li>
-        <li>GitHub (Forks, Pull Requests, Workflows)</li>
-    </ul>
+### ☁️ Cloud Platforms
+- AWS (EC2, S3, IAM, VPC)
+- Azure (Basics)
 
-    <h3>☁️ Cloud Platforms</h3>
-    <ul>
-        <li>AWS (EC2, S3, IAM, VPC)</li>
-        <li>Azure (Basics)</li>
-    </ul>
+### 📦 Build & Deployment Tools
+- Maven / Gradle
+- Nginx / Apache
+- Linux Administration (Ubuntu / CentOS)
 
-    <h3>📦 Build & Deployment Tools</h3>
-    <ul>
-        <li>Maven / Gradle</li>
-        <li>Nginx / Apache</li>
-        <li>Linux Administration (Ubuntu / CentOS)</li>
-    </ul>
+---
 
-    <hr>
+## 📈 What I Do
+- Automate builds, tests, and deployments
+- Design and manage scalable cloud infrastructure
+- Containerize applications for consistent environments
+- Monitor, troubleshoot, and optimize systems
+- Reduce manual work with scripting and automation
+- Ensure secure, version-controlled workflows
 
-    <h2>📈 What I Do</h2>
-    <ul>
-        <li>Automate builds, tests, and deployments</li>
-        <li>Design and manage scalable cloud infrastructure</li>
-        <li>Containerize applications for consistent environments</li>
-        <li>Monitor, troubleshoot, and optimize systems</li>
-        <li>Reduce manual work with scripting and automation</li>
-        <li>Ensure secure, version-controlled workflows</li>
-    </ul>
+---
 
-    <hr>
+## 💼 Experience
+**DevOps Engineer — 3+ Years**
+- Built & maintained CI/CD pipelines using GitHub Actions and Jenkins
+- Containerized applications using Docker & Docker Compose
+- Managed deployments and infrastructure on AWS
+- Implemented Git branching strategies (GitFlow)
+- Automated infrastructure using Terraform and Ansible
+- Supported development teams with build and release processes
 
-    <h2>💼 Experience</h2>
-    <p><strong>DevOps Engineer — 3+ Years</strong></p>
-    <ul>
-        <li>Built & maintained CI/CD pipelines using GitHub Actions and Jenkins</li>
-        <li>Containerized applications using Docker & Docker Compose</li>
-        <li>Managed deployments and infrastructure on AWS</li>
-        <li>Implemented Git branching strategies (GitFlow)</li>
-        <li>Automated infrastructure using Terraform and Ansible</li>
-        <li>Supported development teams with build and release processes</li>
-    </ul>
+---
 
-    <hr>
+## 📫 Contact Me
+- **Email:** rishav6299@gmail.com  
+- **LinkedIn:** [Rishav Kumar Singh](https://www.linkedin.com/in/rishavkumarsingh1424/)  
+- **GitHub:** [Rishav2414](https://github.com/Rishav2414)
 
-    <h2>📫 Contact Me</h2>
-    <p>
-        <strong>Email:</strong> rishav6299@gmail.com<br>
-        <strong>LinkedIn:</strong> https://www.linkedin.com/in/rishavkumarsingh1424/<br>
-        <strong>GitHub:</strong> Rishav2414
-    </p>
+---
 
-    <hr>
-
-    <h2>⚡ Fun Fact</h2>
-    <p>I love optimizing workflows and making systems run faster, smoother, and more reliably!</p>
-
-</body>
-</html>
+## ⚡ Fun Fact
+I love optimizing workflows and making systems run faster, smoother, and more reliably!
